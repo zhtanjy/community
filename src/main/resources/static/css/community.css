@@ -1,0 +1,21 @@
+body{
+    background-color: #efefef;
+}
+.main{
+    margin: 30px;
+    background-color: white;
+}
+.btn-publish{
+    float: right;
+    margin-bottom: 15px;
+}
+.content-p-span {
+    font-size: 12px;
+    font-weight: normal;
+    color: #999;
+}
+
+.media-object {
+    width: 38px;
+    height: 38px;
+}

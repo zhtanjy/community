@@ -24,6 +24,9 @@ spring:
 github:
   client:
     id: 6c055558c9e7cad9e7c0
-    secret: b44c4ae4b3e6dad4be7640f9bee8dd6448d24ca9
+    secret: 2ab7ff63f8aad6ae601535e75ec38e618c759c53
   redirect:
     uri: http://localhost:8100/callback
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

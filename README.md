@@ -6,3 +6,5 @@
 * [okHttp](https://square.github.io/okhttp/)
 * [Fastjson]()
 ##工具
+* 嵌入式图标 bootstrap 4 没有自带 使用 [Font Awesome 图标样式](http://www.fontawesome.com.cn/faicons/#new) 代替；
+  [样例地址](http://www.fontawesome.com.cn/examples/)
